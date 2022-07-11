@@ -1,0 +1,7 @@
+{
+	"Name" : "NorthstarCLAIOPA",
+	"Description" : "Northstar/Custom Loading Animation Icon goes from bottom and then lower Opacity",
+	"Version": "1.0.0",
+	"LoadPriority": 1,
+	"DownloadLink": "https://github.com/Strykus/CustomLoadingIconAnimation"
+}

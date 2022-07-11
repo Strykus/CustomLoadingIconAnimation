@@ -1,0 +1,7 @@
+{
+	"Name" : "NorthstarCLAIUP",
+	"Description" : "Northstar/Custom Loading Animation Icon goes from bottom to the top",
+	"Version": "1.0.0",
+	"LoadPriority": 1,
+	"DownloadLink": "https://github.com/Strykus/CustomLoadingIconAnimation"
+}
