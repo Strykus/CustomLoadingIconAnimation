@@ -1,9 +1,9 @@
 {
-    "name": "ExampleMod",
-    "version_number": "0.0.1",
+    "name": "NorthstarCLAIUP",
+    "version_number": "1.0.0",
     "website_url": "",
-    "description": "Example mod",
+    "description": "Northstar/Custom Loading Animation Icon goes from bottom to the top",
     "dependencies": [
-        "northstar-Northstar-1.6.0"
+        "northstar-Northstar-1.7.0"
     ]
 }
